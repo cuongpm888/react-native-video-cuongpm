@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_repeat_off.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_repeat_all.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_fullscreen_enter.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_previous.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_repeat_one.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_play.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_shuffle.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_pause.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_fastforward.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_next.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_fullscreen_exit.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_rewind.png",
+        "source": "/Volumes/Data/GoogleDrive/CuongPM/ReactNative/WorldCup/node_modules/react-native-video/android-exoplayer/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-xhdpi-v4/exo_controls_rewind.png"
+    }
+]
